@@ -32,7 +32,7 @@ print("the first derivative with respect to y is:", first_derivate_y)
 print("the second derivative with respect to xx is:", second_derivate_xx)
 print("the second derivative with respect to xy is:", second_derivate_xy)
 print("the second derivative with respect to yx is:", second_derivate_yx)
-
+print("the second derivative with respect to yy is:", second_derivate_yy)
 print("the third derivative with respect to xxx is:", third_derivate_xxx)
 print("the third derivative with respect to xxy is:", third_derivate_xxy)
 print("the third derivative with respect to xyx is:", third_derivate_xyx)
